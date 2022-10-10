@@ -18,7 +18,7 @@ export default function Botoes({ time }) {
 }
 
 const Butao = styled.div`
-    & button{
+    button{
     margin-right: 10px;
     width: 82px;
     height: 43px;
@@ -26,6 +26,6 @@ const Butao = styled.div`
     background: #e8833a;
     font-size: 18px;
     border: none;
-    margin-bottom: 117px;
+    margin-bottom: 40px;
     
     }`;
