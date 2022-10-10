@@ -29,10 +29,15 @@ button{
     display: flex;
     align-items: center;
     text-align: center;
+    justify-content: center;
     letter-spacing: 0.04em;
-
     color: #FFFFFF;
     
 }
-
+link{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
 `
